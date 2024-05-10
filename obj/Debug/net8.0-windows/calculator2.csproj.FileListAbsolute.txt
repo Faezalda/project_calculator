@@ -1,0 +1,17 @@
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.Form1.resources
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.csproj.GenerateResource.cache
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.AssemblyInfoInputs.cache
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.AssemblyInfo.cs
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\هاني\source\repos\calculator2\bin\Debug\net8.0-windows\calculator2.exe
+C:\Users\هاني\source\repos\calculator2\bin\Debug\net8.0-windows\calculator2.deps.json
+C:\Users\هاني\source\repos\calculator2\bin\Debug\net8.0-windows\calculator2.runtimeconfig.json
+C:\Users\هاني\source\repos\calculator2\bin\Debug\net8.0-windows\calculator2.dll
+C:\Users\هاني\source\repos\calculator2\bin\Debug\net8.0-windows\calculator2.pdb
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.dll
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\refint\calculator2.dll
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.pdb
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.genruntimeconfig.cache
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\ref\calculator2.dll
+C:\Users\هاني\source\repos\calculator2\obj\Debug\net8.0-windows\calculator2.Properties.Resources.resources
